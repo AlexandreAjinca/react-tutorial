@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexandreAjinca/react-tutorial.git/static/css/main.9345b6e2.css",
+    "main.js": "/AlexandreAjinca/react-tutorial.git/static/js/main.3968135c.js",
+    "index.html": "/AlexandreAjinca/react-tutorial.git/index.html",
+    "main.9345b6e2.css.map": "/AlexandreAjinca/react-tutorial.git/static/css/main.9345b6e2.css.map",
+    "main.3968135c.js.map": "/AlexandreAjinca/react-tutorial.git/static/js/main.3968135c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.3968135c.js"
+  ]
+}
